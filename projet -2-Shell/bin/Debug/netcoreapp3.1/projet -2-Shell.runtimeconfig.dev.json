@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elmab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elmab\\.nuget\\packages"
+    ]
+  }
+}

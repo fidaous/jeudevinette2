@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S10gc7Foy2nrkT0qOCVvKYGl6suJPtkqriaCuUEaIt5fDZdtBXxGa/YEx2E1VHmaVM/B8uK5zQYnHEMCL8D//g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elmab\\source\\repos\\projet -2-Shell\\projet -2-Shell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elmab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\elmab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elmab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\elmab\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

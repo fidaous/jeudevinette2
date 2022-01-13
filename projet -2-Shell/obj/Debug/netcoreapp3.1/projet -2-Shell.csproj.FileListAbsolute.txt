@@ -1,0 +1,14 @@
+C:\Users\elmab\source\repos\projet -2-Shell\bin\Debug\netcoreapp3.1\projet -2-Shell.exe
+C:\Users\elmab\source\repos\projet -2-Shell\bin\Debug\netcoreapp3.1\projet -2-Shell.deps.json
+C:\Users\elmab\source\repos\projet -2-Shell\bin\Debug\netcoreapp3.1\projet -2-Shell.runtimeconfig.json
+C:\Users\elmab\source\repos\projet -2-Shell\bin\Debug\netcoreapp3.1\projet -2-Shell.runtimeconfig.dev.json
+C:\Users\elmab\source\repos\projet -2-Shell\bin\Debug\netcoreapp3.1\projet -2-Shell.dll
+C:\Users\elmab\source\repos\projet -2-Shell\bin\Debug\netcoreapp3.1\projet -2-Shell.pdb
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.csproj.AssemblyReference.cache
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.AssemblyInfoInputs.cache
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.AssemblyInfo.cs
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.csproj.CoreCompileInputs.cache
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.dll
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.pdb
+C:\Users\elmab\source\repos\projet -2-Shell\obj\Debug\netcoreapp3.1\projet -2-Shell.genruntimeconfig.cache
